@@ -9,7 +9,8 @@ ______________
 Commands
 ______________                                                                                                           
 
-?hello ------------------- MightyBot says hello!||
+?hello ------------------- MightyBot says hello!
+______________
 ?uplog ------------------- Update log for the bot.||
 ?jojo -------------------- A bizarre suprise.||
 ?mfdoom ------------------ mf doom.||
