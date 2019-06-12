@@ -5,9 +5,9 @@ Welcome! This is MightyBot! A bot made purely for shitposting on Discord Servers
 
 The following is a list of commands you can use to call MightyBot.
 
-______________
+______________                                                                                                    
 Commands
-______________
+______________                                                                                                           
 
 ?hello ------------------- MightyBot says hello!
 ?uplog ------------------- Update log for the bot.
