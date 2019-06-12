@@ -11,26 +11,39 @@ ______________
 
 ?hello ------------------- MightyBot says hello!
 ______________
-?uplog ------------------- Update log for the bot.||
-?jojo -------------------- A bizarre suprise.||
-?mfdoom ------------------ mf doom.||
-?my ---------------------- prints('name jeff')||
-?hotelmario -------------- prints a randomly selected quote from Hotel Mario.||
-?itgood ------------------ MightyBot decides if its good or not.||
-?fe ---------------------- MightyBot talks about Fe.||
+?uplog ------------------- Update log for the bot.
+______________
+?jojo -------------------- A bizarre suprise.
+______________
+?mfdoom ------------------ mf doom.
+______________
+?my ---------------------- prints('name jeff')
+______________
+?hotelmario -------------- prints a randomly selected quote from Hotel Mario.
+______________
+?itgood ------------------ MightyBot decides if its good or not.
+______________
+?fe ---------------------- MightyBot talks about Fe.
 ______________
 text commands
 ______________
 These are different from regular commands. They do not require the '?' mark.
 ______________
 
-@MightyBot --------------- Pings MightyBot||
-todd --------------------- sends a picture of todd howard||
-skyrim ------------------- smiling todd||
-fallout 76 --------------- angry todd||
-it just works ------------ sends link to Fallout 76 glitches and bugs||
-fallout 4 ---------------- picture of todd||
-oblivion ----------------- picture of angry todd||
+@MightyBot --------------- Pings MightyBot
+______________
+todd --------------------- sends a picture of todd howard
+______________
+skyrim ------------------- smiling todd
+______________
+fallout 76 --------------- angry todd
+______________
+it just works ------------ sends link to Fallout 76 glitches and bugs
+______________
+fallout 4 ---------------- picture of todd
+______________
+oblivion ----------------- picture of angry todd
+______________
 
 
 
